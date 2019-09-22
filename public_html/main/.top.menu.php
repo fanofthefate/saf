@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Гастроли", 
+		"/tourandevents/dates/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Заказ мероприятий", 
+		"/show/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Проекты", 
+		"/projects/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Коллектив", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Лучшие иллюзии", 
+		"/illyuzii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пресса", 
+		"/press/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

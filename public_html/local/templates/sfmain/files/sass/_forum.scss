@@ -1,0 +1,36 @@
+.main_section
+{
+
+	.reviews-reply-header, .forum-notify-bar { display: none; }
+
+	form.reviews-form { border: 0px; padding: 0px; background-color:#fff;}
+
+	div.reviews-info-box, div.reviews-reply-form { border: 0px;}
+	
+	.bxlhe-editor-toolbar-row { display: none;}
+	
+	div.reviews-reply-field {
+		padding-bottom: 0em;
+		margin-top: 0em;
+	}
+	
+	.reviews-reply-buttons
+	{
+		
+		
+		
+	}
+	
+	.reviews-info-box.reviews-post-preview {
+		border: solid 1px #e8e8e8;
+	}
+	
+	.lhe-resize-row { display: none; height: 0px !important;}
+	
+	div.reviews-info-box, div.reviews-reply-form { background-color: #fff;}
+	
+	div.bxlhe-frame { border: solid 1px #cdcdcd;
+    font-size: 14px;
+    line-height: 14px;}
+
+}

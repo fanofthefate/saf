@@ -1,0 +1,21 @@
+.blur-ie {
+  display: block;
+  position: absolute;
+}
+
+.projects-cat .project .read-more-container {
+  position: static;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+}
+.projects-cat .project .read-more-container:after {
+  display: none;
+}
+.projects-cat .project .read-more-container .read-more-background {
+  background: none !important;
+}
+
+.projects-cat .projects-bottom span:first-child {
+  margin: 15px;
+}

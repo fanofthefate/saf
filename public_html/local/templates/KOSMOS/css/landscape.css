@@ -1,0 +1,40 @@
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .world .world__box {
+    margin-top: 100%;
+    border: solid 1px red;
+    margin-bottom: 57%;
+  }
+
+  .hand {
+    background-size: auto 100%;
+  }
+
+  .hand__top, .hand__bot {
+    display: none;
+  }
+
+  .vid .vid__right {
+    text-align: center;
+  }
+
+  .vid .vid__res {
+    display: inline-block;
+    padding-bottom: 0px;
+  }
+
+  .hand__foot {
+    margin-top: 0px;
+  }
+
+  .bike {
+    padding-top: 0px !important;
+  }
+
+  .hand {
+    padding-bottom: 22px;
+  }
+
+  .hand__foot {
+    margin-top: 40px;
+  }
+}
